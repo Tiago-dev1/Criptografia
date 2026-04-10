@@ -1,5 +1,7 @@
 
 
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/73f1946f-e405-421c-bfa7-11c40cb1edc4" />
+
 📝 Resumo do Print 1
 Arquivo: Cripto.c
 
